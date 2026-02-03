@@ -17,5 +17,5 @@ Step 4:
   -> Open the file name Portfolio.html right click -> open with live server
 
 Screenshot of project
-<img src="screenshots/SS_1.png" width="600">
-<img src="screenshots/SS_2.png" width="600">
+<img src="screenshot/SS_1.png" width="600">
+<img src="screenshot/SS_2.png" width="600">
