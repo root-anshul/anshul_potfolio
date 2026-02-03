@@ -16,6 +16,7 @@ Step 4:
   -> Install the Live Preview extension from Extensions
   -> Open the file name Portfolio.html right click -> open with live server
 
-Screenshot of project
+
+
 <img src="screenshot/SS_1.png" width="600">
 <img src="screenshot/SS_2.png" width="600">
